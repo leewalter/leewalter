@@ -29,10 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to learn AWS for free ?](https://dev.to/aws-builders/how-to-learn-aws-for-free--2inc)
 - [How to learn and practice more in Kubernetes Network Policy for CKx exams and EKS ?](https://dev.to/aws-builders/how-to-learn-and-practice-more-in-kubernetes-network-policy-for-ckx-exams-and-eks--4cgn)
 - [3 good books for Data Sciences on AWS](https://dev.to/aws-builders/3-good-books-for-data-sciences-on-aws-k4p)
 - [How to practice more hands on AWS and partner services ?](https://dev.to/aws-builders/how-to-practice-more-hands-on-aws-and-partner-services--44j4)
-- [𝑵𝒆𝒘 𝑲𝒖𝒃𝒆𝒓𝒏𝒆𝒕𝒆𝒔 𝒉𝒊𝒈𝒉 𝒔𝒆𝒗𝒆𝒓𝒊𝒕𝒚 𝒗𝒖𝒍𝒏𝒆𝒓𝒂𝒃𝒊𝒍𝒊𝒕𝒚 𝒂𝒍𝒆𝒓𝒕: 𝑪𝑽𝑬-2021-25742 about Nginx Ingress controller custom snippets](https://dev.to/aws-builders/-2021-25742-about-nginx-ingress-controller-custom-snippets-4dpm)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
