@@ -29,10 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 good posts in &quot;Living with Kubernetes&quot;](https://dev.to/aws-builders/5-good-posts-in-living-with-kubernetes-30mi)
 - [What is CAP &lpar;Consistency, Availability or Partition Tolerance&rpar; Theorem And Distributed Data ?](https://dev.to/leewalter/what-is-cap-consistency-availability-or-partition-tolerance-theorem-and-distributed-data--2795)
 - [Many free and useful AWS official Dev and User guides!](https://dev.to/aws-builders/many-free-and-useful-aws-official-dev-and-user-guides-54ci)
 - [How to learn AWS for free ?](https://dev.to/aws-builders/how-to-learn-aws-for-free--2inc)
-- [How to learn and practice more in Kubernetes Network Policy for CKx exams and EKS ?](https://dev.to/aws-builders/how-to-learn-and-practice-more-in-kubernetes-network-policy-for-ckx-exams-and-eks--4cgn)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
