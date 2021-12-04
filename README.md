@@ -29,10 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to prepare for AWS Data Analytics cert exam ?](https://dev.to/leewalter/how-to-prepare-for-aws-data-analytics-cert-exam--1a0c)
 - [𝑯𝒐𝒘 𝒕𝒐 𝒈𝒆𝒕 *𝑭𝑹𝑬𝑬* *𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍* 𝑨𝑾𝑺 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝑷𝒓𝒂𝒄𝒕𝒊𝒄𝒆 𝑸𝒖𝒆𝒔𝒕𝒊𝒐𝒏 𝑺𝒆𝒕𝒔 ?](https://dev.to/aws-builders/--8cg)
 - [5 good posts in &quot;Living with Kubernetes&quot;](https://dev.to/aws-builders/5-good-posts-in-living-with-kubernetes-30mi)
 - [What is CAP &lpar;Consistency, Availability or Partition Tolerance&rpar; Theorem And Distributed Data ?](https://dev.to/leewalter/what-is-cap-consistency-availability-or-partition-tolerance-theorem-and-distributed-data--2795)
-- [Many free and useful AWS official Dev and User guides!](https://dev.to/aws-builders/many-free-and-useful-aws-official-dev-and-user-guides-54ci)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
