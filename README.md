@@ -29,10 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [𝑯𝑻𝑻𝑷 𝑨𝒓𝒄𝒉𝒊𝒗𝒆’𝒔 𝒂𝒏𝒏𝒖𝒂𝒍 𝒔𝒕𝒂𝒕𝒆 𝒐𝒇 𝒕𝒉𝒆 𝒘𝒆𝒃 𝒓𝒆𝒑𝒐𝒓𝒕 2021](https://dev.to/leewalter/-2021-3e8d)
 - [Missed AWS re:Invent 2021?](https://dev.to/aws-builders/missed-aws-reinvent-2021-3c00)
 - [𝑾𝒉𝒚 𝒍𝒆𝒂𝒓𝒏 𝒎𝒐𝒓𝒆 𝑨𝑾𝑺 𝒂𝒏𝒅 𝒈𝒆𝒕 𝒄𝒆𝒓𝒕𝒊𝒇𝒊𝒆𝒅 ?](https://dev.to/aws-builders/-12h4)
 - [How to prepare for AWS Data Analytics cert exam ?](https://dev.to/aws-builders/how-to-prepare-for-aws-data-analytics-cert-exam--1a0c)
-- [𝑯𝒐𝒘 𝒕𝒐 𝒈𝒆𝒕 *𝑭𝑹𝑬𝑬* *𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍* 𝑨𝑾𝑺 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝑷𝒓𝒂𝒄𝒕𝒊𝒄𝒆 𝑸𝒖𝒆𝒔𝒕𝒊𝒐𝒏 𝑺𝒆𝒕𝒔 ?](https://dev.to/aws-builders/--8cg)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
