@@ -29,10 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Scan your Java projects and fix any Apache log4j vulnerability NOW](https://dev.to/leewalter/scan-your-java-projects-and-fix-any-apache-log4j-vulnerability-now-2md2)
-- [𝑯𝑻𝑻𝑷 𝑨𝒓𝒄𝒉𝒊𝒗𝒆’𝒔 𝒂𝒏𝒏𝒖𝒂𝒍 𝒔𝒕𝒂𝒕𝒆 𝒐𝒇 𝒕𝒉𝒆 𝒘𝒆𝒃 𝒓𝒆𝒑𝒐𝒓𝒕 2021](https://dev.to/leewalter/-2021-3e8d)
-- [Missed AWS re:Invent 2021?](https://dev.to/leewalter/missed-aws-reinvent-2021-3c00)
-- [𝑾𝒉𝒚 𝒍𝒆𝒂𝒓𝒏 𝒎𝒐𝒓𝒆 𝑨𝑾𝑺 𝒂𝒏𝒅 𝒈𝒆𝒕 𝒄𝒆𝒓𝒕𝒊𝒇𝒊𝒆𝒅 ?](https://dev.to/leewalter/-12h4)
+- [Free Oracle OCI learning and certification exam till 2/2022](https://dev.to/leewalter/free-oracle-oci-learning-and-certification-exam-till-22022-3i0c)
+- [What is Oracle OSS Helidon?](https://dev.to/leewalter/what-is-oracle-oss-helidon-35e1)
+- [10 free GCP training offers to take advantage of before 2022!](https://dev.to/leewalter/10-free-gcp-training-offers-to-take-advantage-of-before-2022-35j6)
+- [Want to learn more in #GitOps and #ArgoCD ?](https://dev.to/leewalter/want-to-learn-more-in-gitops-and-argocd--4akp)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
