@@ -28,7 +28,11 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/walterwlee/](https://www.linkedin.com/in/walterwlee/)
 
-- 🧑‍🎓 Know about some of my certifications and badges at credly [https://www.credly.com/users/walter-lee/badges?sort=-state_updated_at&page=1](https://www.credly.com/users/walter-lee/badges?sort=-state_updated_at&page=1) and at credential.net [https://www.credential.net/profile/wingyipwalterlee568142/wallet](https://www.credential.net/profile/wingyipwalterlee568142/wallet) and at qwiklabs [https://www.qwiklabs.com/public_profiles/58e0aa03-fa7a-4ac5-8dc3-424eb47940d0](https://www.qwiklabs.com/public_profiles/58e0aa03-fa7a-4ac5-8dc3-424eb47940d0) 
+- 🧑‍🎓 Know about some of my certifications and badges:
+  - credly [https://www.credly.com/users/walter-lee/badges?sort=-state_updated_at&page=1](https://www.credly.com/users/walter-lee/badges?sort=-state_updated_at&page=1)
+  - credential.net [https://www.credential.net/profile/wingyipwalterlee568142/wallet](https://www.credential.net/profile/wingyipwalterlee568142/wallet)
+  - qwiklabs [https://www.qwiklabs.com/public_profiles/58e0aa03-fa7a-4ac5-8dc3-424eb47940d0](https://www.qwiklabs.com/public_profiles/58e0aa03-fa7a-4ac5-8dc3-424eb47940d0) 
+
 
 - ⚡ Fun fact **I like to play basketball/tennis, eat good food, watch NFL, NBA and MLB games. Hiking in the weekend. Play Chess and video games. Love puppies.**
 
