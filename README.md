@@ -67,7 +67,7 @@
 <h3 align="left">Certificates and Badges:</h3>
 
 
-<a href="https://github.com/leewalter/leewalter/blob/main/my%2046%20badges2.png" target="blank"><img align="center" src="https://github.com/leewalter/leewalter/blob/main/my%2046%20badges2.png" alt="Certificates and Badges" height="1200" width="1200" /></a>
+<a href="https://github.com/leewalter/leewalter/blob/main/my%2046%20badges2.png" target="blank"><img align="center" src="https://github.com/leewalter/leewalter/blob/main/my%2047%20badges3.png" alt="Certificates and Badges" height="1200" width="1200" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
