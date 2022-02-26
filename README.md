@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Azure, GCP, AWS and OCI cloud certificate exams : ) (just passed CKS exam)** 
 
-- 🌱 I’m currently learning **k8s, web perf, SEO, AI/ML, Data Analytics on AWS, Azure, GCP and OCI.**
+- 🌱 I’m currently learning **k8s, web perf, DevOps, SEO, AI/ML, Data Analytics on AWS, Azure, GCP and OCI.**
 
-- 👯 I’m looking to collaborate on **clouds, Kubernetes, AI/ML, Data, web/mobile perf.**
+- 👯 I’m looking to collaborate on **clouds, Kubernetes, DevOps, AI/ML, Data, web/mobile perf.**
 
 - 🤝 I’m looking for help with **Edge Computing**
 
