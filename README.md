@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Walter Lee.</h1>
-<h3 align="center">A passionate Clouds, Kubernetes, AI/ML, Data, Web/Mobile performance software engineer from San Francisco, USA. Microsoft Certified Azure Trainer, CKA, CKS, AWS Community Builder, Certified in AWS, Azure, GCP, OCI, Istio, Aviatrix, Calico, Chaos, Splunk, Akamai, Redhat, Oracle. Samsung Mobile App. hackathon winner, Twilio Developer Champion, Calico Ambassador, Google Dev Group SF Speaker, SF Python Speaker, Mentor, Coach, Writer, Speaker. Opinions are my own and not the views of my employer.</h3>
+<h3 align="center">A passionate Clouds ☁️, Kubernetes ☸, AI🧠/ML👨‍💻, Data 📊, Web/Mobile 🤳 performance 💯 software 💻 engineer 👨‍🔧 from San Francisco 🌉, USA. </h3>
+<h3 align="center">Microsoft Certified Azure Trainer, AWS Community Builder, CKA, CKS, Certified in AWS, Azure, GCP, OCI, Kubernetes, Istio, Envoy, Aviatrix, Calico, Chaos, Splunk, Akamai, Redhat, Java, Oracle. </h3>
+<h3 align="center">Samsung Mobile App. Hackathon Winner, Twilio Developer Champion, Calico Big Cat Ambassador, Google Dev Group SF Speaker, SF Python Speaker, Mentor, Coach, Writer, Speaker. </h3>
+<h4 align="center">Opinions are my own and not the views of my employer.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leewalter&label=Profile%20views&color=0e75b6&style=flat" alt="leewalter" /> </p>
 
@@ -7,25 +10,38 @@
 
 <p align="left"> <a href="https://twitter.com/@walterlee16" target="blank"><img src="https://img.shields.io/twitter/follow/walterlee16?logo=twitter&style=for-the-badge" alt="@walterlee16" /></a> </p>
 
-- 🔭 I’m currently working on **Azure, GCP, AWS and OCI cloud certificate exams : ) (just passed CKS exam)** 
+- 🔭 I’m currently working on **Speaking engagements, Azure, GCP, AWS and OCI cloud certificate exams : ) (just passed CKS exam in 2022-01)** 
 
-- 🌱 I’m currently learning **k8s, web perf, DevOps, SEO, AI/ML, Data Analytics on AWS, Azure, GCP and OCI.**
+- 🌱 I’m currently learning **Clouds: AWS, Azure, GCP, OCI, k8s, web perf, DevOps, SRE, SEO, AI/ML, Data Analytics, Serverless, k8s networking.**
 
-- 👯 I’m looking to collaborate on **clouds, Kubernetes, DevOps, AI/ML, Data, web/mobile perf.**
+- 👯 I’m looking to collaborate on **Clouds, Kubernetes, DevOps, GitOps, SRE, AI/ML, Data, web/mobile perf.**
 
-- 🤝 I’m looking for help with **Edge Computing**
+- 🤝 I’m looking for help with **Edge Serverless Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/leewalter](https://github.com/leewalter)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/walterwlee/](https://www.linkedin.com/in/walterwlee/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/walterwlee/](https://www.linkedin.com/in/walterwlee/) and Table of Contents at  [#table-of-contents-of-blogs-posts-and-articles--3k-at-linkedin](#table-of-contents-of-blogs-posts-and-articles--3k-at-linkedin) 
 
-- 💬 Ask me about **clouds, Kubernetes, AI/ML, Data, web/mobile perf.**
+- 💬 Ask me about **Clouds, Kubernetes, SRE, DevOps, AI/ML, Data, web/mobile perf.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/walterwlee/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/walterwlee/](https://www.linkedin.com/in/walterwlee/)
 
-- ⚡ Fun fact **I like tp play basketball, watch NFL, NBA and MLB games. Hiking in the weekend. Play Chess and video games. Love puppies.**
+- 🧑‍🎓 Know about my certifications and badges [https://www.credly.com/users/walter-lee/badges?sort=-state_updated_at&page=1](https://www.credly.com/users/walter-lee/badges?sort=-state_updated_at&page=1)
+
+- ⚡ Fun fact **I like t0 play basketball, watch NFL, NBA and MLB games. Hiking in the weekend. Play Chess and video games. Love puppies.**
+
+### Table of Contents of Blogs posts and articles ( >3k+ at LinkedIn)
+<!-- ToC-LIST:START -->
+- [Table of Contents #6](https://www.linkedin.com/pulse/table-contents-my-postings-6-walter-lee/)
+- [Table of Contents #5](https://www.linkedin.com/pulse/table-contents-my-postings-5-walter-lee/)
+- [Table of Contents #4](https://www.linkedin.com/pulse/table-contents-my-postings-4-walter-lee/)
+- [Table of Contents #3](https://www.linkedin.com/pulse/table-contents-my-postings-3-walter-lee/)
+- [Table of Contents #2](https://www.linkedin.com/pulse/table-contents-my-postings-2-walter-lee/)
+- [Table of Contents #1](https://www.linkedin.com/pulse/table-contents-my-postings-walter-lee/)
+<!-- ToCLIST:END -->
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -45,7 +61,9 @@
 </p>
 
 <h3 align="left">Certificates and Badges:</h3>
-![Certificates and Badges](my%2046%20badges2.png)
+
+
+<a href="https://github.com/leewalter/leewalter/blob/main/my%2046%20badges2.png" target="blank"><img align="center" src="https://github.com/leewalter/leewalter/blob/main/my%2046%20badges2.png" alt="Certificates and Badges" height="1200" width="1200" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
