@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leewalter" alt="leewalter" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@walterlee16" target="blank"><img src="https://img.shields.io/twitter/follow/@walterlee16?logo=twitter&style=for-the-badge" alt="@walterlee16" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@walterlee16" target="blank"><img src="https://img.shields.io/twitter/follow/walterlee16?logo=twitter&style=for-the-badge" alt="@walterlee16" /></a> </p>
 
 - 🔭 I’m currently working on **Azure, GCP, AWS and OCI cloud certificate exams : ) (just passed CKS exam)** 
 
