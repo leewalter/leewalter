@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Walter Lee.</h1>
 <h3 align="center">A passionate Clouds ☁️, Kubernetes ☸, AI🧠/ML👨‍💻, Data 📊, Web/Mobile 🤳 performance 💯 software 💻 engineer 👨‍🔧 from San Francisco 🌉, USA. </h3>
-<h3 align="center">Microsoft Certified Azure Trainer, AWS Community Builder, CKA, CKS, Certified in AWS, Azure, GCP, OCI, Kubernetes, Istio, Envoy, Aviatrix, Calico, Chaos, Splunk, Akamai, Redhat, Java, Oracle. </h3>
+<h3 align="center">Microsoft Certified Azure Trainer, AWS Community Builder, CKA, CKS, Certified in AWS, Azure, GCP, OCI, Kubernetes, Istio, Envoy, Aviatrix, IaaS, Calico, Chaos, Splunk, Akamai, Redhat, Java, Oracle. </h3>
 <h3 align="center">Samsung Mobile App. Hackathon Winner, Twilio Developer Champion, Calico Big Cat Ambassador, Google Dev Group SF Speaker, SF Python Speaker, Mentor, Coach, Writer, Speaker. </h3>
 <h4 align="center">Opinions are my own and not the views of my employer.</h4>
 
@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/leewalter](https://github.com/leewalter)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/walterwlee/](https://www.linkedin.com/in/walterwlee/) and Table of Contents at  [#table-of-contents-of-blogs-posts-and-articles--3k-at-linkedin](#table-of-contents-of-blogs-posts-and-articles--3k-at-linkedin) 
+- 📝 I regularly write articles on [https://www.linkedin.com/in/walterwlee/](https://www.linkedin.com/in/walterwlee/) and Table of Contents at  [#table-of-contents-of-blogs](#table-of-contents-of-blogs-posts-and-articles--3k-at-linkedin) 
 
 - 💬 Ask me about **Clouds, Kubernetes, SRE, DevOps, AI/ML, Data, web/mobile perf.**
 
@@ -28,11 +28,11 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/walterwlee/](https://www.linkedin.com/in/walterwlee/)
 
-- 🧑‍🎓 Know about my certifications and badges [https://www.credly.com/users/walter-lee/badges?sort=-state_updated_at&page=1](https://www.credly.com/users/walter-lee/badges?sort=-state_updated_at&page=1)
+- 🧑‍🎓 Know about some of my certifications and badges at credly [https://www.credly.com/users/walter-lee/badges?sort=-state_updated_at&page=1](https://www.credly.com/users/walter-lee/badges?sort=-state_updated_at&page=1) and at credential.net [https://www.credential.net/profile/wingyipwalterlee568142/wallet](https://www.credential.net/profile/wingyipwalterlee568142/wallet) 
 
-- ⚡ Fun fact **I like t0 play basketball, watch NFL, NBA and MLB games. Hiking in the weekend. Play Chess and video games. Love puppies.**
+- ⚡ Fun fact **I like to play basketball/tennis, eat good food, watch NFL, NBA and MLB games. Hiking in the weekend. Play Chess and video games. Love puppies.**
 
-### Table of Contents of Blogs posts and articles ( >3k+ at LinkedIn)
+### Table of Contents of Technical Blogs, Posts and Articles ( >3k+ posted at LinkedIn)
 <!-- ToC-LIST:START -->
 - [Table of Contents #6](https://www.linkedin.com/pulse/table-contents-my-postings-6-walter-lee/)
 - [Table of Contents #5](https://www.linkedin.com/pulse/table-contents-my-postings-5-walter-lee/)
@@ -43,7 +43,7 @@
 <!-- ToCLIST:END -->
 
 
-### Blogs posts
+### Technical Blogs posts at dev.to
 <!-- BLOG-POST-LIST:START -->
 - [𝑮𝒐𝒐𝒈𝒍𝒆 𝒍𝒐𝒈4𝒋𝒔𝒄𝒂𝒏𝒏𝒆𝒓 𝒕𝒐 𝒔𝒄𝒂𝒏 𝒂𝒏𝒅 𝒓𝒆𝒎𝒐𝒗𝒆 𝑱𝒏𝒅𝒊𝑳𝒐𝒐𝒌𝒖𝒑 !](https://dev.to/leewalter/4--3lpn)
 - [Free Oracle OCI learning and certification exam till 2/2022](https://dev.to/leewalter/free-oracle-oci-learning-and-certification-exam-till-22022-3i0c)
