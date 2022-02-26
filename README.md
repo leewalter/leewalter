@@ -46,7 +46,7 @@
 
 <h3 align="left">Certificates and Badges</h3>
 <p align="left">
-![Certificates and Badges](https://github.com/leewalter/leewalter/blob/main/my%2046%20badges2.png)
+![Certificates and Badges](my%2046%20badges2.png)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
