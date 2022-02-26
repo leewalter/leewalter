@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Walter Lee.</h1>
-<h3 align="center">A passionate clouds, Kubernetes, AI/ML, Data, web/mobile perf. software engineer from San Francisco, USA. Microsoft Certified Azure Trainer, CKA, CKS, AWS Community Builder, Certified in AWS, Azure, GCP, OCI, Istio, Aviatrix, Calico, Chaos, Splunk, Akamai, Redhat, Oracle. Samsung Mobile App. hackathon winner, Twilio Developer Champion, Calico Ambassador, Google Dev Group SF Speaker, SF Python Speaker, Mentor, Coach, Writer, Speaker. Opinions are my own and not the views of my employer.</h3>
+<h3 align="center">A passionate Clouds, Kubernetes, AI/ML, Data, Web/Mobile performance software engineer from San Francisco, USA. Microsoft Certified Azure Trainer, CKA, CKS, AWS Community Builder, Certified in AWS, Azure, GCP, OCI, Istio, Aviatrix, Calico, Chaos, Splunk, Akamai, Redhat, Oracle. Samsung Mobile App. hackathon winner, Twilio Developer Champion, Calico Ambassador, Google Dev Group SF Speaker, SF Python Speaker, Mentor, Coach, Writer, Speaker. Opinions are my own and not the views of my employer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leewalter&label=Profile%20views&color=0e75b6&style=flat" alt="leewalter" /> </p>
 
