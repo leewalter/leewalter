@@ -49,10 +49,10 @@
 
 ### Technical Blogs posts at dev.to
 <!-- BLOG-POST-LIST:START -->
+- [Stand With Ukraine using Super Fast and Accurate Azure Cognitive LUIS AI language translator](https://dev.to/leewalter/stand-with-ukraine-using-super-fast-and-accurate-azure-cognitive-luis-ai-language-translator-2810)
 - [𝑮𝒐𝒐𝒈𝒍𝒆 𝒍𝒐𝒈4𝒋𝒔𝒄𝒂𝒏𝒏𝒆𝒓 𝒕𝒐 𝒔𝒄𝒂𝒏 𝒂𝒏𝒅 𝒓𝒆𝒎𝒐𝒗𝒆 𝑱𝒏𝒅𝒊𝑳𝒐𝒐𝒌𝒖𝒑 !](https://dev.to/leewalter/4--3lpn)
 - [Free Oracle OCI learning and certification exam till 2/2022](https://dev.to/leewalter/free-oracle-oci-learning-and-certification-exam-till-22022-3i0c)
 - [What is Oracle OSS Helidon?](https://dev.to/leewalter/what-is-oracle-oss-helidon-35e1)
-- [10 free GCP training offers to take advantage of before 2022!](https://dev.to/leewalter/10-free-gcp-training-offers-to-take-advantage-of-before-2022-35j6)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
