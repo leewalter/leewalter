@@ -38,6 +38,7 @@
 
 ### Table of Contents of Technical Blogs, Posts and Articles ( >3k+ posted at LinkedIn)
 <!-- ToC-LIST:START -->
+- [Table of Contents #7](https://www.linkedin.com/pulse/table-contents-my-postings-7-walter-lee/)
 - [Table of Contents #6](https://www.linkedin.com/pulse/table-contents-my-postings-6-walter-lee/)
 - [Table of Contents #5](https://www.linkedin.com/pulse/table-contents-my-postings-5-walter-lee/)
 - [Table of Contents #4](https://www.linkedin.com/pulse/table-contents-my-postings-4-walter-lee/)
