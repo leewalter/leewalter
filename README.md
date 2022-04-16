@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Walter Lee.</h1>
 <h3 align="center">A passionate Clouds ☁️, Kubernetes ☸, AI🧠/ML👨‍💻, Data 📊, Web/Mobile 🤳 performance 💯 software 💻 engineer 👨‍🔧 from San Francisco 🌉, USA. </h3>
 <h3 align="center">Microsoft Certified Azure Trainer, AWS Community Builder, CKA, CKS, Certified in AWS, Azure, GCP, OCI, Kubernetes, Istio, Envoy, Aviatrix, IaaS, Calico, Chaos, Splunk, Akamai, Redhat, Java, Oracle. </h3>
-<h3 align="center">Samsung Mobile App. Hackathon Winner, Twilio Developer Champion, Calico Big Cat Ambassador, Google Dev Group SF Speaker, SF Python Speaker, Mentor, Coach, Writer, Speaker. </h3>
+<h3 align="center">Samsung Mobile App. and Akamai Edge Serverless Hackathon Winner, Twilio Developer Champion, Calico Big Cat Ambassador, Google Dev Group SF Speaker, SF Python Speaker, Mentor, Coach, Writer, Speaker. </h3>
 <h4 align="center">Opinions are my own and not the views of my employer.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leewalter&label=Profile%20views&color=0e75b6&style=flat" alt="leewalter" /> </p>
