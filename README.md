@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/@walterlee16" target="blank"><img src="https://img.shields.io/twitter/follow/walterlee16?logo=twitter&style=for-the-badge" alt="@walterlee16" /></a> </p>
 
-- 🔭 I’m currently working on **Speaking engagements, Azure, GCP, AWS and OCI cloud certificate exams : ) (just passed CKS exam in 2022-01)** 
+- 🔭 I’m currently working on **Speaking engagements, Azure, GCP, AWS and OCI cloud certificate exams : ) (just passed CKS exam in 2022-01, GCP PDE exam in 2022-04)** 
 
 - 🌱 I’m currently learning **Clouds: AWS, Azure, GCP, OCI, k8s, web perf, DevOps, SRE, SEO, AI/ML, Data Analytics, Serverless, k8s networking.**
 
