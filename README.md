@@ -66,10 +66,10 @@
 <a href="https://www.hackerrank.com/quietwalter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="quietwalter" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Certificates and Badges:</h3>
+<h3 align="left">Honors, Certificates and Badges: 6xAzure, 5xGCP, 5xOCI, 2xAWS, 2xKubernetes (CKA/CKS), 4xCalico, 3xSplunk, 2xIstio, 2xAviatrix, 1xeBPF, 1xEnvoy, AWS Community Builder, Twilio Developer Champion, Calico BigCat Ambassador, Github Arctic Code Vault Contributor, Samsung and Akamai Coding Contest/Hackathon Winners ! </h3>
 
 
-<a href="https://github.com/leewalter/leewalter/blob/main//All%20Badges%202022-05-25.jpg" target="blank"><img align="center" src="https://github.com/leewalter/leewalter/blob/main//All%20Badges%202022-05-25.jpg" alt="Certificates and Badges"/></a>
+<a href="https://github.com/leewalter/leewalter/blob/main/All%20Badges%202022-05-25.jpg" target="blank"><img align="center" src="https://github.com/leewalter/leewalter/blob/main/All%20Badges%202022-05-25.jpg" alt="Certificates and Badges"/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
