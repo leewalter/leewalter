@@ -75,17 +75,73 @@ Good for #kubernetes , #cloudrun, Google APIs ...etc. in vscode !](https://www.l
 72. [I read almost all of these wonderful books in this great book list shared by #catchpoint CEO Mehdi Daoudi . Thank you! I implemented many ideas (e.g. #http2, #TLS 1.3, #Brotli, #resources #hints, connections #optimizations, #Akamai IM, etc...) from these authors/books and can see the web performance improved a lot ! Suggest you learn more from these #webperf experts !](https://www.linkedin.com/posts/walterwlee_webperformance-webperf-activity-6934688933813379072-XA1a?utm_source=linkedin_share&utm_medium=member_desktop_web)
 73. [𝐀 𝐥𝐨𝐭 𝐨𝐟 𝐇𝐚𝐫𝐝𝐰𝐨𝐫𝐤 𝐛𝐞𝐡𝐢𝐧𝐝 𝐄𝐯𝐞𝐫𝐲 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞, 𝐬𝐨 𝐥𝐞𝐭 𝐮𝐬 𝐫𝐞𝐣𝐨𝐢𝐜𝐞 𝐚𝐧𝐝 𝐡𝐚𝐧𝐠 𝐢𝐭 𝐨𝐧 𝐭𝐡𝐞 𝐖𝐀𝐋𝐋 ! My goal is a total of 9 GCP certificates in 2022 ! 5 down and only 4 more to go !](https://www.linkedin.com/posts/walterwlee_clouds-certified-gcpcloud-activity-6934716720662159360-X0mU?utm_source=linkedin_share&utm_medium=member_desktop_web)
 74. [Happy to learn a lot more in #Calico for #Azure #AKS ! You can learn more at https://lnkd.in/g5Ny7vta - Some topics I like most in this course: #Cluster API (#CAPI), #Windows #nodegroup, #Calico + #Istio integration, #BYO #CNI, #GlobalNetworkPolicy, ...etc.](https://www.linkedin.com/posts/walterwlee_calico-azure-aks-activity-6934763682975424512-FAqR?utm_source=linkedin_share&utm_medium=member_desktop_web)
-75. []()
-76. []()
-77. []()
-78. []()
-79. []()
-80. []()
-81. []()
+75. [Thanks a lot to #tigera #calico team for 4 wonderful courses ! You can sign up and learn free at https://lnkd.in/ghFPvCMb I strongly recommend them if you like to learn more in #ebpf , #kubernetes #networking , #security and #observability . ](https://www.linkedin.com/posts/walterwlee_tigera-calico-ebpf-activity-6935407137414074368-LB1f?utm_source=linkedin_share&utm_medium=member_desktop_web)
+76. [Want to know what is new in #kubernetes 1.24 Stargazer
+? Watch recording at https://lnkd.in/d5YgNwyC
+many good details on new features, e.g. Signing Release Artifact, OpenAPI v3, Storage Capacity and Volume Expansion Are Generally Available, NonPreemptingPriority to Stable, etc...](https://www.linkedin.com/posts/walterwlee_kubernetes-124-release-webinar-activity-6935414417295577088-3KgK?utm_source=linkedin_share&utm_medium=member_desktop_web)
+77. [What is the #Kubernetes  #Cluster #API? Learn more at 1/ repo - https://lnkd.in/dbfveuB4 2/ Book - https://lnkd.in/dvNFtQCA 3/ example use case - https://lnkd.in/draKZYW4](https://www.linkedin.com/posts/walterwlee_github-kubernetes-sigscluster-api-home-activity-6935415673607061504-vCrC?utm_source=linkedin_share&utm_medium=member_desktop_web)
+78. [Thanks to Kim Wüstkamp for many useful and FREE CKA/CKS/CKAD exam Scenarios ! e.g. https://lnkd.in/dDJJrdWV - It can help you PASS TOUGH CKx exams a lot more easily !](https://www.linkedin.com/posts/walterwlee_ckad-scenarios-readinessprobe-and-container-build-activity-6935417409646268416-2mnk?utm_source=linkedin_share&utm_medium=member_desktop_web)
+79. [Thanks a lot to #Isovalent team to provide many useful labs for #ebpf and #Cilium #Tetragon! 1/ labs - https://lnkd.in/d3hq9cTT ](https://www.linkedin.com/posts/walterwlee_isovalent-ebpf-cilium-activity-6935419754652270592-gS8A?utm_source=linkedin_share&utm_medium=member_desktop_web)
+80. [thanks a lot to #cloudacademy Guy Hummel Free #Microsoft #auzre AZ-305 Exam Office hour video at https://lnkd.in/dnFz8_5N](https://www.linkedin.com/posts/walterwlee_office-hours-microsoft-az-305-exam-activity-6935426619012431872-PKeP?utm_source=linkedin_share&utm_medium=member_desktop_web)
+81. [#microsoft has a good #Java for #beginners series at https://lnkd.in/dfeKJj4T](https://www.linkedin.com/posts/walterwlee_java-for-beginners-activity-6935427328986480640-APgE?utm_source=linkedin_share&utm_medium=member_desktop_web)
+82. [Just read Sebastian Moreno E new book, "#Google #Cloud #Certified Professional Cloud #Developer - Exam Guide" . You can find it at https://lnkd.in/gq7-TdPg - Recommend you read it before your GCP Prof Cloud Developer EXAM : ) This exam is difficult and this book can help you pass with the right knowledge explained well in this book.](https://www.linkedin.com/posts/walterwlee_google-cloud-certified-professional-cloud-activity-6935463106596794368-Kldc?utm_source=linkedin_share&utm_medium=member_desktop_web)
+83. [#CDK day is tomorrow ! Sign up at https://www.cdkday.com/
+and set up youtube reminder at https://lnkd.in/g37DN8R8](https://www.linkedin.com/posts/walterwlee_cdk-day-26th-may-2022-free-tickets-available-activity-6935469961503027200-2L74?utm_source=linkedin_share&utm_medium=member_desktop_web)
+84. [#twilio has a full course to learn Programmable #Messaging, #Voice, and #Serverless at https://lnkd.in/ge6_cZJ4](https://www.linkedin.com/posts/walterwlee_learn-twilio-messaging-voice-and-serverless-activity-6935471761194958848-7cd_?utm_source=linkedin_share&utm_medium=member_desktop_web)
+85. [Thank you for my #21k #FOLLOWERs ! I write and share many every week and hope you can get something useful out of my #posts ? ](https://www.linkedin.com/posts/walterwlee_21k-followers-posts-activity-6935761614050643968-hjtc?utm_source=linkedin_share&utm_medium=member_desktop_web)
+86. [Thanks #Amazon #books to allow my book #review at https://lnkd.in/gyfkQ8MN I got 10+ images there to show you some good useful pages from Sebastian Moreno E new #GCP Professional #cloud #developer book.](https://www.linkedin.com/posts/walterwlee_amazon-books-review-activity-6935763247690121216-TXK1?utm_source=linkedin_share&utm_medium=member_desktop_web)
+87. [#Tip of #Today: Do NOT bring your #mobile phone into the bedroom, then you will #sleep a LOT better and wake up the next morning #FRESH and #ENERGETIC ! ](https://www.linkedin.com/posts/walterwlee_cell-phones-are-stealing-your-sleep-activity-6935764544665395200-0LH0?utm_source=linkedin_share&utm_medium=member_desktop_web)
+88. [Missed CDK day ? NP, go watch recordings at 3 different tracks below: 1/ agenda - https://www.cdkday.com/ so you can see which track/topics you like ](https://www.linkedin.com/posts/walterwlee_cdk-day-26th-may-2022-free-tickets-available-activity-6935766517808603136-Q_-9?utm_source=linkedin_share&utm_medium=member_desktop_web)
+89. [Want to track major upcoming changes to #AWS #CDK, jsii, and other related projects ? Then follow and read this repo at https://lnkd.in/g7XyEUbi](https://www.linkedin.com/posts/walterwlee_github-awsaws-cdk-rfcs-rfcs-for-the-aws-activity-6935845200166625280-ARY7?utm_source=linkedin_share&utm_medium=member_desktop_web)
+90. [Time flies ! Today is already 40% of 2022 ! What did I do in the first 40% of 2022 ? I put together a picture:](https://www.linkedin.com/posts/walterwlee_certificates-kubernetes-developer-activity-6935851465055903744-nPfD?utm_source=linkedin_share&utm_medium=member_desktop_web)
+91. [Super #happy today ! I did an Internal BB talk in April on "How to get #Certified more easily in #Clouds". Then a colleague just told me today he passed his VERY FIRST #GCP #ACE cert exam with my tips ! As a teacher/speaker, nothing better than this for a holiday Friday !](https://www.linkedin.com/posts/walterwlee_happy-certified-clouds-activity-6935967597351895040-ndhL?utm_source=linkedin_share&utm_medium=member_desktop_web)
+92. [Knowledge is Power, Cloud Knowledge is SUPER Power!](https://www.linkedin.com/posts/walterwlee_cloudcomputing-cloudcertification-awscommunity-activity-6936137791709855744-WJQF?utm_source=linkedin_share&utm_medium=member_desktop_web)
+93. [I am seeing many recruiter emails lately for #GCP openings. Example job titles: #SRE #Devops Engineer with #GCP experience or GCP #Data Engineer...etc. It is good to learn more in cloud computing and get #certified. A lot of good paying jobs out there and waiting for you !](https://www.linkedin.com/posts/walterwlee_gcp-sre-devops-activity-6936141711429558272-lWgN?utm_source=linkedin_share&utm_medium=member_desktop_web)
+94. [Recommend free ebook, "Software Engineering at Google" at https://lnkd.in/gB76JUTp Many useful info inside, e.g. Style Guides and Rules, Code Review, Documentation, Testing, Version Control and Branch Management, Critique: Google’s Code Review Tool, Dependency Management, ...](https://www.linkedin.com/posts/walterwlee_software-engineering-at-google-activity-6936375104457105408-oMch?utm_source=linkedin_share&utm_medium=member_desktop_web)
+95. [#google has a good #job #interview #warmup site at https://lnkd.in/ge-5j9d4 Many good useful questions and practices there !](https://www.linkedin.com/posts/walterwlee_google-job-interview-activity-6936377552420708352-DKnN?utm_source=linkedin_share&utm_medium=member_desktop_web)
+96. [Thanks Adam Grant for the new reality term called #Loyalty #tax! No wonder the #greatresignation . Hope the #employer can do more to retain good and loyal #employees ! The cost to #recruit and #train new #hires is a lot higher than the little pay raise to retain good current employees ! #management #salary](https://www.linkedin.com/posts/walterwlee_its-more-expensive-to-recruit-hire-and-activity-6936378750620098560-93mW?utm_source=linkedin_share&utm_medium=member_desktop_web)
+97. [We all should OWN a little #Wall of Fame where we can hang things we are #PROUD of. It help #motivates me and others every day ! I used to spend a lot of time watching #ALL the sports, NFL, MLB, NBA and Netflix/Apple TV movies. Now, I spend a lot more time #learning and #sharing new #technologies in #clouds, #kubernetes, #devops, #security, #networking, #data, #ML, #AI, #webperf, etc...](https://www.linkedin.com/posts/walterwlee_wall-proud-motivates-activity-6936724483181359104-lrha?utm_source=linkedin_share&utm_medium=member_desktop_web)
+98. [Thanks to @Adrian Trzeciak for the new post on #GCP #config #connector which is a #Kubernetes #addon that allows you to manage #googlecloud #resources through #Kubernetes. "With Config Connector, your environments can leverage how Kubernetes manages Resources including:](https://www.linkedin.com/posts/walterwlee_setting-up-config-connector-with-terraform-activity-6936727482431668224-1n9_?utm_source=linkedin_share&utm_medium=member_desktop_web)
+99. [Thanks Jack Roper for this good post, #15 Best practices with examples and tips for successful K8s management! Many good tips inside. What other tips you have and can share please ? I like to suggest a few more tips, starting #16:](https://www.linkedin.com/posts/walterwlee_kubernetes-best-practices-activity-6936730560199372800-nENJ?utm_source=linkedin_share&utm_medium=member_desktop_web)
+100. [𝐃𝐚𝐭𝐚 𝐢𝐬 𝐭𝐡𝐞 𝐍𝐄𝐖 𝐆𝐎𝐋𝐃 ! This is why I like to learn and study more in this HOT area in clouds : ) There is always a good paying job in Cloud Data area !](https://www.linkedin.com/posts/walterwlee_datascience-dataanalytics-datamanagement-activity-6936798378164977664-PTTf?utm_source=linkedin_share&utm_medium=member_desktop_web)
+101. [𝐉𝐔𝐒𝐓 𝐃𝐎 𝐈𝐓 ! Do not over-think ! I got this question often : How do you achieve this and that. My simple answer below: 𝐉𝐔𝐒𝐓 𝐃𝐎 𝐈𝐓 !](https://www.linkedin.com/posts/walterwlee_cloudcertification-awscommunity-awscertification-activity-6936871901105463296-D6Ld?utm_source=linkedin_share&utm_medium=member_desktop_web)
+102. [Thanks to #KodeKloud Team Mumshad Mannambeth for FREE YAML and JSON course at https://lnkd.in/gWyM3Fck
+I took it for my #CKA prep and highly recommend.](https://www.linkedin.com/posts/walterwlee_kodekloud-cka-devops-activity-6936896649592012800-zvIL?utm_source=linkedin_share&utm_medium=member_desktop_web)
+103. [#aqua security has many easy to use OSS tools at https://lnkd.in/g4vBcib - I pretty much used all of these below.](https://www.linkedin.com/posts/walterwlee_aqua-kubernetes-kubernetessecurity-activity-6937222455329509376-80mQ?utm_source=linkedin_share&utm_medium=member_desktop_web)
+104. [I often got this q - do I have any exam dumps for this or that ? I like to suggest really Study HARD and then practice more with QUALITY questions, e.g. https://lnkd.in/ga8-GeZ5 by Jon Bonso ](https://www.linkedin.com/posts/walterwlee_tutorialsdojo-awscommunity-awscommunitybuilders-activity-6937225143861616640-Umjs?utm_source=linkedin_share&utm_medium=member_desktop_web)
+105. [Introducing #Amazon #EKS #Observability #Accelerator at https://lnkd.in/gp-dz_KS #Blueprint repo for this observability samples - https://lnkd.in/ghFekTMy e.g. #nginx - https://lnkd.in/gw8yN35f - #Terraform ready !](https://www.linkedin.com/posts/walterwlee_introducing-amazon-eks-observability-accelerator-activity-6937228245201293312-KQjw?utm_source=linkedin_share&utm_medium=member_desktop_web)
+106. [#AWS has a great site with many ready to use #recipes for #observability (#o11y) solutions for AWS at https://lnkd.in/gp5rJgGW](https://www.linkedin.com/posts/walterwlee_welcome-activity-6937230469201625088-PcRp?utm_source=linkedin_share&utm_medium=member_desktop_web)
+107. [Thanks a lot to #tigera Ratan Tipirneni Christopher Tomkins Reza Ramezanpour Alara Ozturk for this good #calico on #azure course. #kubernetes is important for #production #workload. #CNI is important for #kubernetes. #Calico is the MOST POPULAR and WIDELY used #CNI. If you go to docker hub at https://lnkd.in/ghSDQbSK , then you will see image pulls # 500M+ ! Yes, it is 500M+ image pulls already !](https://www.linkedin.com/posts/walterwlee_tigera-calico-azure-activity-6937599314772848640-q22P?utm_source=linkedin_share&utm_medium=member_desktop_web)
+108. [3 simple but powerful sentences to start your day by #harvardbusinessreview :](https://www.linkedin.com/posts/walterwlee_harvardbusinessreview-positive-motivation-activity-6937633007260368896-e-XV?utm_source=linkedin_share&utm_medium=member_desktop_web)
+109. [#amazonwebservices has a great page for "#Cloud #Financial #Management with #AWS" and many useful #resources inside !
+The old saying of “𝐚 𝐝𝐨𝐥𝐥𝐚𝐫 𝐬𝐚𝐯𝐞𝐝 𝐢𝐬 𝐚 𝐝𝐨𝐥𝐥𝐚𝐫 𝐞𝐚𝐫𝐧𝐞𝐝” is true with AWS cost management : ) Learn more at https://lnkd.in/gUtrqqz7](https://www.linkedin.com/posts/walterwlee_amazonwebservices-cloud-financial-activity-6937636625950654464-Uy4T?utm_source=linkedin_share&utm_medium=member_desktop_web)
+110. []()
+111. []()
+112. []()
+113. []()
+114. []()
+115. []()
+116. []()
+117. []()
+118. []()
+119. []()
+120. []()
+121. []()
+122. []()
+123. []()
+124. []()
+125. []()
+126. []()
+127. []()
+128. []()
+129. []()
+130. []()
+131. 
+132. 
 
 
 
 
 
 
-<h3  align="center">(last updated on 5/24/2022) to add more: [text](url)</h3>
+<h3  align="center">(last updated on 5/31/2022) to add more: [text](url)</h3>
