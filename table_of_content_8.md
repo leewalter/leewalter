@@ -480,7 +480,7 @@ https://lnkd.in/gdaBEcdW](https://www.linkedin.com/posts/walterwlee_best-kept-se
 https://lnkd.in/gJ5T9HwX](https://www.linkedin.com/posts/walterwlee_the-transcript-on-twitter-activity-6992617863480037376-3qyn?utm_source=share&utm_medium=member_desktop)
 453. [#amazonwebservices has been and continues to be #1 market #leader in #clouds !](https://www.linkedin.com/feed/update/urn:li:activity:6993017324458979328?utm_source=share&utm_medium=member_desktop)
 454. [I think it is a good idea to use #Pearson instead of #PSI exam for AWS certification. What do you think ?](https://www.linkedin.com/feed/update/urn:li:activity:6993431802791034880?utm_source=share&utm_medium=member_desktop)
-455. [I saw a tweet that there is a NEW Custom web site , called "http://ExitTwitter.com" which has many jobs postings, "Work for anyone but Elon Musk". Share here in case you a](https://www.linkedin.com/posts/walterwlee_layoffs-job-jobhunt2022-activity-6993433824911114240-JYH-?utm_source=share&utm_medium=member_desktop) (last updated 11/01/2022 - not CRT yet)
+455. [I saw a tweet that there is a NEW Custom web site , called "http://ExitTwitter.com" which has many jobs postings, "Work for anyone but Elon Musk". Share here in case you a](https://www.linkedin.com/posts/walterwlee_layoffs-job-jobhunt2022-activity-6993433824911114240-JYH-?utm_source=share&utm_medium=member_desktop) (last updated 11/01/2022 - CRT already)
 456. []()
 457. []()
 458. []()
