@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Walter Lee.</h1>
 <h3 align="center">A passionate Clouds ☁️, Kubernetes ☸, DevOps, AI🧠/ML👨‍💻, Data 📊, Web/Mobile 🤳 performance 💯 software 💻 engineer 👨‍🔧 from San Francisco 🌉, USA. </h3>
-<h3 align="center">Microsoft Certified Azure Trainer, AWS Community Builder, CKA, CKS, Certified in AWS, 6xAzure, 8xGCP, 5xOCI, Kubernetes, terraform, Istio, Envoy, Aviatrix, IaaS, Calico, Chaos, Splunk, Akamai, Redhat, Java, Oracle. </h3>
+<h3 align="center">Microsoft Certified Azure Trainer, AWS Community Builder, CKA, CKS, Certified in 3xAWS, 6xAzure, 8xGCP, 5xOCI, 2xKubernetes, terraform, Istio, Envoy, Aviatrix, IaaS, Calico, Chaos, Splunk, Akamai, Redhat, Java, Oracle. </h3>
 <h3 align="center">Samsung Mobile App. (2013) and Akamai Edge Serverless (2022) Hackathon Winner, Twilio Developer Champion, Calico Big Cat Ambassador, Google Dev Group SF Speaker, SF Python Speaker, Mentor, Coach, Writer, Speaker. </h3>
 <h4 align="center">Opinions are my own and not the views of my employer.</h4>
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/@walterlee16" target="blank"><img src="https://img.shields.io/twitter/follow/walterlee16?logo=twitter&style=for-the-badge" alt="@walterlee16" /></a> </p>
 
-- 🔭 I’m currently working on **Speaking engagements, Azure, GCP, AWS and OCI cloud certificate exams : ) (just passed CKS exam in 2022-01, GCP PDE exam in 2022-04, GCP Cloud Devops and Developer cert exams in 2022-05, Terraform cert in 2022-07, GCP Prof Security cert exam in 2022-08, GCP Prof Cloud Network cert exam in 2022-09, GCP Prof Architect cert exam in 2022-10!)** 
+- 🔭 I’m currently working on **Speaking engagements, Azure, GCP, AWS and OCI cloud certificate exams : ) (just passed CKS exam in 2022-01, GCP PDE exam in 2022-04, GCP Cloud Devops and Developer cert exams in 2022-05, Terraform cert in 2022-07, GCP Prof Security cert exam in 2022-08, GCP Prof Cloud Network cert exam in 2022-09, GCP Prof Architect cert exam in 2022-10, AWS Security Specialty in 2022-11, ... !)** 
 
 - 🌱 I’m currently learning **Clouds: AWS, Azure, GCP, OCI, k8s, web perf, DevOps, SRE, SEO, AI/ML, Data Analytics, Serverless, k8s networking.**
 
