@@ -38,6 +38,7 @@
 
 ### Table of Contents of Technical Blogs, Posts and Articles ( >3k+ posted at LinkedIn)
 <!-- ToC-LIST:START -->
+- [Books reviews](https://github.com/leewalter/books)
 - [Table of Contents #8 at github here](https://github.com/leewalter/leewalter/blob/main/table_of_content_8.md)
 - [Table of Contents #7](https://www.linkedin.com/pulse/table-contents-my-postings-7-walter-lee/)
 - [Table of Contents #6](https://www.linkedin.com/pulse/table-contents-my-postings-6-walter-lee/)
