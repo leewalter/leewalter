@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/@walterlee16" target="blank"><img src="https://img.shields.io/twitter/follow/walterlee16?logo=twitter&style=for-the-badge" alt="@walterlee16" /></a> </p>
 
-- 🔭 I’m currently working on **Speaking engagements, Azure, GCP, AWS and OCI cloud certificate exams : ) (just passed CKS exam in 2022-01, GCP PDE exam in 2022-04, GCP Cloud Devops and Developer cert exams in 2022-05, Terraform cert in 2022-07, GCP Prof Security cert exam in 2022-08, GCP Prof Cloud Network cert exam in 2022-09, GCP Prof Architect cert exam in 2022-10, AWS Security Specialty in 2022-11, ... !)** 
+- 🔭 I’m currently working on **Speaking engagements, Azure, GCP, AWS and OCI cloud certificate exams : ) (just passed CKS exam in 2022-01, GCP PDE exam in 2022-04, GCP Cloud Devops and Developer cert exams in 2022-05, Terraform and Azure AZ-104 admin cert in 2022-07, GCP Prof Security cert exam in 2022-08, GCP Prof Cloud Network cert exam in 2022-09, GCP Prof Architect cert exam in 2022-10, AWS Security Specialty in 2022-11, ... !)** 
 
 - 🌱 I’m currently learning **Clouds: AWS, Azure, GCP, OCI, k8s, web perf, DevOps, SRE, SEO, AI/ML, Data Analytics, Serverless, k8s networking.**
 
