@@ -10,19 +10,33 @@
 
 <p align="left"> <a href="https://twitter.com/@walterlee16" target="blank"><img src="https://img.shields.io/twitter/follow/walterlee16?logo=twitter&style=for-the-badge" alt="@walterlee16" /></a> </p>
 
-- 🔭 I’m currently working on **Speaking engagements, Azure, GCP, AWS and OCI cloud certificate exams : ) (just passed CKS exam in 2022-01, GCP PDE exam in 2022-04, GCP Cloud Devops and Developer cert exams in 2022-05, Terraform and Azure AZ-104 admin cert in 2022-07, GCP Prof Security cert exam in 2022-08, GCP Prof Cloud Network cert exam in 2022-09, GCP Prof Architect cert exam in 2022-10, AWS Security Specialty in 2022-11, Google Developer Expert in 2022-12, ... !)** 
+- 🔭 I’m currently working on **Speaking engagements, codings, technical writings, more cloud certification exams : )** 
+- 2022 **Accomplishments**:
+  * 2202-01: passed Certified Kubernetes Security (CKS) exam and won Calico Bigcat Ambassador honor
+  * 2202-02: passed Aviatrix Multicloud Network Automation Specialty cert exam
+  * 2202-03: won Grand Prize for North America Akamai Edge Serverless Hackathlon contest
+  * 2202-04: passed Google Cloud Professional Data Engineer cert exam  
+  * 2202-05: passed Google Cloud Professional Cloud DevOps and Developer cert exams 
+  * 2202-06: won 4x Solo.io certificates in eBPF, Cilium, Istio and Envoy
+  * 2202-07: passed Terraform and Azure AZ-104 Admin cert exams 
+  * 2202-08: passed Google Cloud Professional Security cert exam and won Lifelong Learning award by CertiProf
+  * 2202-09: passed Google Cloud Professional Cloud Network cert exam and Istio Ambient Mesh cert by Solo.io
+  * 2202-10: passed Google Cloud Professional Architect cert exam 
+  * 2202-11: passed Amazon Web Services (AWS) Professional Security Specialty cert exam 
+  * 2202-12: won Google Developer (GCP) Expert Badge and Honor 
+  * Read and reviewed 15 technical books in AWS, GCP, Azure, k8s, ...
 
 - 🌱 I’m currently learning **Clouds: AWS, Azure, GCP, OCI, k8s, web perf, DevOps, SRE, SEO, AI/ML, Data Analytics, Serverless, k8s networking.**
 
 - 👯 I’m looking to collaborate on **Clouds, Kubernetes, DevOps, GitOps, SRE, AI/ML, Data, web/mobile perf.**
 
-- 🤝 I’m looking for help with **Edge Serverless Computing**
+- 🤝 I’m looking for help with **Edge Serverless Computing** and some APIs
 
 - 👨‍💻 All of my projects are available at [https://github.com/leewalter](https://github.com/leewalter)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/walterwlee/](https://www.linkedin.com/in/walterwlee/) and Table of Contents at  [#table-of-contents-of-blogs](#table-of-contents-of-blogs-posts-and-articles--3k-at-linkedin) 
 
-- 💬 Ask me about **Clouds, Kubernetes, SRE, DevOps, AI/ML, Data, web/mobile perf.**
+- 💬 Ask me about **Clouds, Kubernetes, SRE, DevOps, AI/ML, Data, web/mobile perf, Calico, Twilio.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/walterwlee/**
 
@@ -32,7 +46,6 @@
   - credly [https://www.credly.com/users/walter-lee/badges?sort=-state_updated_at&page=1](https://www.credly.com/users/walter-lee/badges?sort=-state_updated_at&page=1)
   - credential.net [https://www.credential.net/profile/wingyipwalterlee568142/wallet](https://www.credential.net/profile/wingyipwalterlee568142/wallet)
   - qwiklabs [https://www.qwiklabs.com/public_profiles/58e0aa03-fa7a-4ac5-8dc3-424eb47940d0](https://www.qwiklabs.com/public_profiles/58e0aa03-fa7a-4ac5-8dc3-424eb47940d0) 
-
 
 - ⚡ Fun fact **I like to play basketball/tennis, eat good food, watch NFL, NBA and MLB games. Hiking in the weekend. Play Chess and video games. Love puppies.**
 
