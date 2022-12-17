@@ -12,18 +12,18 @@
 
 - 🔭 I’m currently working on **Speaking engagements, codings, technical writings, more cloud certification exams : )** 
 - 2022 **Accomplishments**:
-  * 2202-01: passed Certified Kubernetes Security (CKS) exam and earned Calico Bigcat Ambassador honor
-  * 2202-02: earned Aviatrix Multicloud Network Automation Specialty badge
-  * 2202-03: won Grand Prize for North America Akamai Edge Serverless Hackathlon contest
-  * 2202-04: passed Google Cloud Professional Data Engineer cert exam  
-  * 2202-05: passed Google Cloud Professional Cloud DevOps and Developer cert exams 
-  * 2202-06: earned 4x Solo.io certificates/badges in eBPF, Cilium, Istio and Envoy and passed GCP ACE cert exam
-  * 2202-07: passed Terraform and Azure AZ-104 Admin cert exams 
-  * 2202-08: passed Google Cloud Professional Security cert exam and earned Lifelong Learning award by CertiProf
-  * 2202-09: passed Google Cloud Professional Cloud Network cert exam and earned Istio Ambient Mesh cert by Solo.io
-  * 2202-10: passed Google Cloud Professional Architect cert exam 
-  * 2202-11: passed Amazon Web Services (AWS) Professional Security Specialty cert exam 
-  * 2202-12: earned Google Developer (GCP) Expert Badge and Honor 
+  * 2022-01: passed Certified Kubernetes Security (CKS) exam and earned Calico Bigcat Ambassador honor
+  * 2022-02: earned Aviatrix Multicloud Network Automation Specialty badge
+  * 2022-03: won Grand Prize for North America Akamai Edge Serverless Hackathlon contest
+  * 2022-04: passed Google Cloud Professional Data Engineer cert exam  
+  * 2022-05: passed Google Cloud Professional Cloud DevOps and Developer cert exams 
+  * 2022-06: earned 4x Solo.io certificates/badges in eBPF, Cilium, Istio and Envoy and passed GCP ACE cert exam
+  * 2022-07: passed Terraform and Azure AZ-104 Admin cert exams 
+  * 2022-08: passed Google Cloud Professional Security cert exam and earned Lifelong Learning award by CertiProf
+  * 2022-09: passed Google Cloud Professional Cloud Network cert exam and earned Istio Ambient Mesh cert by Solo.io
+  * 2022-10: passed Google Cloud Professional Architect cert exam 
+  * 2022-11: passed Amazon Web Services (AWS) Professional Security Specialty cert exam 
+  * 2022-12: earned Google Developer (GCP) Expert Badge and Honor 
   * Read and reviewed 15 technical books in AWS, GCP, Azure, k8s, ...
   * filed 5+ PRs in Cilium, Azure, Google, GCP, tfsec, ... repos
   
