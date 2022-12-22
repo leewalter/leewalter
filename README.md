@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Walter Lee.</h1>
 <h3 align="center">A passionate Clouds ☁️, Kubernetes ☸, DevOps, AI🧠/ML👨‍💻, Data 📊, Web/Mobile 🤳 performance 💯 software 💻 engineer 👨‍🔧 from San Francisco 🌉, USA. </h3>
-<h3 align="center">Google Developer Expert (GCP), Microsoft Certified Azure Trainer, AWS Community Builder, Google Cloud Champion Innovator, CKA, CKS, Certified in 3xAWS, 6xAzure, 10xGCP, 5xOCI, 2xKubernetes, terraform, Istio, Envoy, Aviatrix, Calico, Argo CD, Chaos Engineering, Splunk, Akamai, Redhat, Java, Oracle. </h3>
+<h3 align="center">Google Developer Expert (GCP), Microsoft Certified Azure Trainer, AWS Community Builder, Google Cloud Champion Innovator, CKA, CKS, Certified in 3xAWS, 6xAzure, 10xGCP, 5xOCI, 2xKubernetes, 4xCalico, terraform, Istio, Envoy, Aviatrix, Argo CD, Chaos Engineering, Splunk, Akamai, Redhat, Java, Oracle. </h3>
 <h3 align="center">Samsung Mobile App. (2013) and Akamai Edge Serverless (2022) Hackathon Winner, Twilio Developer Champion, Calico Big Cat Ambassador, Google Dev Group SF Speaker, SF Python Speaker, Mentor, Coach, Writer, Speaker. </h3>
 <h4 align="center">Opinions are my own and not the views of my employer.</h4>
 
