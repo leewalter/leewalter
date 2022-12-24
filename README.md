@@ -25,7 +25,7 @@
   * 2022-10: passed Google Cloud Professional Architect cert exam 
   * 2022-11: passed Amazon Web Services (AWS) Professional Security Specialty cert exam 
   * 2022-12: earned Google Developer Expert (Google Cloud) Honor and Google Cloud Champion Innovator (Modern Architecture) Honor 
-  * Read and reviewed 15 technical books in AWS, GCP, Azure, k8s, ...
+  * Read and reviewed 16+ technical books in AWS, GCP, Azure, k8s, ...
   * filed 5+ PRs in Cilium, Azure, Google, GCP, tfsec, ... repos
   
 
