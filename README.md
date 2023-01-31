@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leewalter" alt="leewalter" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@walterlee16" target="blank"><img src="https://img.shields.io/twitter/follow/walterlee16?logo=twitter&style=for-the-badge" alt="@walterlee16" /></a> </p>
-<p align="left"> <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=walterwlee" target="blank"><img src="https://logodix.com/logo/937530.png"  width="100" height="50" alt="Follow me on LinkedIn - Walter Lee" />Follow me on LinkedIn : 28k+ followers</a> </p>
+<p align="left"> <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=walterwlee" target="blank"><img src="https://logodix.com/logo/937530.png"  width="100" height="50" alt="Follow me on LinkedIn - Walter Lee" />Follow me on LinkedIn : 30k+ followers</a> </p>
 
 - 🔭 I’m currently working on **Speaking engagements, codings, technical writings, more cloud certification exams : )** 
 - 2022 **Accomplishments**:
