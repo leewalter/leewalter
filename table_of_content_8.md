@@ -875,7 +875,7 @@ It has a lot of links to help you write terraform ](https://www.linkedin.com/pos
 872. [Amazon Web Services (AWS) and its #certifications are important for you to land a great 100% remote job. See example requirements below. Learn more, earn more. ](https://www.linkedin.com/posts/walterwlee_certifications-aws-awscertified-activity-7025617368320016385-malM?utm_source=share&utm_medium=member_desktop)
 873. [Do you know you can use Amazon Web Services (AWS) #athena to run #SQL queries on your #googlecloud #BigQuery #data and vice versa, i.e. use Google Cloud #Bigquery](https://www.linkedin.com/posts/walterwlee_athena-sql-googlecloud-activity-7025651968769462272-ddPj?utm_source=share&utm_medium=member_desktop)
 874. [Google has many useful #APIs , e.g. Page Speed API which can help run PageSpeed analysis on the page at the specified URL, and returns PageSpeed scores,](https://www.linkedin.com/posts/walterwlee_apis-webperf-webperformance-activity-7026080332613373952-udD8?utm_source=share&utm_medium=member_desktop)
-875. [Always good to learn more in Tigera and Project Calico ! Thanks Ratan Tipirneni for the events ! Sign up links in comments.](https://www.linkedin.com/posts/walterwlee_cnapp-zerotrust-cloudnative-activity-7026082065003532288-Mkuw?utm_source=share&utm_medium=member_desktop)
+875. [Always good to learn more in Tigera and Project Calico ! Thanks Ratan Tipirneni for the events ! Sign up links in comments.](https://www.linkedin.com/posts/walterwlee_cnapp-zerotrust-cloudnative-activity-7026082065003532288-Mkuw?utm_source=share&utm_medium=member_desktop) (last updated 1/31/2023)
 876. []()
 877. []()
 878. []()
