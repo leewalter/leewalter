@@ -12,6 +12,10 @@
 <p align="left"> <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=walterwlee" target="blank"><img src="https://logodix.com/logo/937530.png"  width="100" height="50" alt="Follow me on LinkedIn - Walter Lee" />Follow me on LinkedIn : 30k+ followers</a> </p>
 
 - 🔭 I’m currently working on **Speaking engagements, codings, technical writings, more cloud certification exams : )** 
+
+- 2023 **Accomplishments**:
+  * 2022-01 and -02: Delivered 4 technical talks on different topics, e.g. From Cloud Zero to Hero, [Google Cloud for Startups](https://youtu.be/NOQkIKvC6PA), [reviewed 10+ books](https://github.com/leewalter/books), [joined GCP Google Developer Experts (GDEs) Program](https://developers.google.com/community/experts/directory/profile/profile-walter-lee), wrote 2 new slide decks (GCP and AWS for Startups), ...
+
 - 2022 **Accomplishments**:
   * 2022-01: passed Certified Kubernetes Security (CKS) exam and earned Calico Bigcat Ambassador honor
   * 2022-02: earned Aviatrix Multicloud Network Automation Specialty badge
