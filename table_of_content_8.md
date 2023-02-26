@@ -973,7 +973,7 @@ https://lnkd.in/gMk4ffQd - "Get your first year with Google ](https://www.linked
 966. [Congrats to ALL my connections/friends (so many I lost count ~50 ?) who got accepted into #awscommunitybuilders program. This is a great program which allows me to meet and talk to many Amazon Web Services (AWS)](https://www.linkedin.com/posts/walterwlee_awscommunitybuilders-activity-7035713968874672128-CteT?utm_source=share&utm_medium=member_desktop)
 967. [Looking for a new job can be a #fulltime #job itself, see #wsj #barrons article at https://lnkd.in/gU9SmSNF - may need a subscription to pass the pay wall to read all inside.](https://www.linkedin.com/posts/walterwlee_one-laid-off-tech-workers-odyssey-5-months-activity-7035723066496208896-VBRt?utm_source=share&utm_medium=member_desktop)
 968. [A Basic iPhone Feature Helps Criminals Steal Your Entire Digital Life
-The passcode that unlocks your phone can give thieves access to your money and data; ‘it’s like a treasure box’](https://www.linkedin.com/posts/walterwlee_a-basic-iphone-feature-helps-criminals-steal-activity-7035724897876131840-i2OZ?utm_source=share&utm_medium=member_desktop)
+The passcode that unlocks your phone can give thieves access to your money and data; ‘it’s like a treasure box’](https://www.linkedin.com/posts/walterwlee_a-basic-iphone-feature-helps-criminals-steal-activity-7035724897876131840-i2OZ?utm_source=share&utm_medium=member_desktop) (last updated 2023-02-26 2pm)
 969. []()
 970. []()
 971. []()
