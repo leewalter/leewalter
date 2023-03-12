@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **Speaking engagements, codings, technical writings, more cloud certification exams : )** 
 
 - 2023 **Accomplishments**:
-  * 2022-01 and -02: Delivered 4 technical talks on different topics, e.g. From Cloud Zero to Hero, [Google Cloud for Startups](https://youtu.be/NOQkIKvC6PA), [reviewed 10+ books](https://github.com/leewalter/books), [joined GCP Google Developer Experts (GDEs) Program](https://developers.google.com/community/experts/directory/profile/profile-walter-lee), wrote 2 new slide decks (GCP and AWS for Startups), ...
+  * 2023-01 and -02: Delivered 4 technical talks on different topics, e.g. From Cloud Zero to Hero, [Google Cloud for Startups](https://youtu.be/NOQkIKvC6PA), [reviewed 10+ books](https://github.com/leewalter/books), [joined GCP Google Developer Experts (GDEs) Program](https://developers.google.com/community/experts/directory/profile/profile-walter-lee), wrote 2 new slide decks (GCP and AWS for Startups), ...
   * 2023-02: Passed Google Professional Workspace Admin certification
   * 2023-03: Passed Google Professional Database Admin certification
 
