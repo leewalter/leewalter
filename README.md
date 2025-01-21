@@ -74,10 +74,10 @@
 
 ### Technical Blogs posts at dev.to
 <!-- BLOG-POST-LIST:START -->
+- [AWS&#39;s Game-Changing Innovations for Database Scaling: Aurora Serverless v2, Aurora Limitless Database, and RDS Data API](https://dev.to/aws-builders/awss-game-changing-innovations-for-database-scaling-aurora-serverless-v2-aurora-limitless-4olc)
 - [Exploring new AWS EKS auto mode. What is it ? Why it is useful ? How to quick start ?](https://dev.to/aws-builders/exploring-new-aws-eks-auto-mode-what-is-it-why-it-is-useful-how-to-quick-start--9ff)
 - [Exploring new AWS Aurora DSQL. What is it ? Why it is important ? How to quickstart ?](https://dev.to/aws-builders/exploring-new-aws-aurora-dsql-what-is-it-why-it-is-important-how-to-quickstart--3hf1)
 - [Stand With Ukraine using Super Fast and Accurate Azure Cognitive LUIS AI language translator](https://dev.to/leewalter/stand-with-ukraine-using-super-fast-and-accurate-azure-cognitive-luis-ai-language-translator-2810)
-- [𝑮𝒐𝒐𝒈𝒍𝒆 𝒍𝒐𝒈4𝒋𝒔𝒄𝒂𝒏𝒏𝒆𝒓 𝒕𝒐 𝒔𝒄𝒂𝒏 𝒂𝒏𝒅 𝒓𝒆𝒎𝒐𝒗𝒆 𝑱𝒏𝒅𝒊𝑳𝒐𝒐𝒌𝒖𝒑 !](https://dev.to/leewalter/4--3lpn)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
