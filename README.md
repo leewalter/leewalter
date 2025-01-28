@@ -74,10 +74,10 @@
 
 ### Technical Blogs posts at dev.to
 <!-- BLOG-POST-LIST:START -->
+- [Amazon EKS Managed Node Groups Unveil New Update Strategies, &quot;Minimal Capacity&quot;](https://dev.to/aws-builders/amazon-eks-managed-node-groups-unveil-new-update-strategies-minimal-capacity-18kf)
 - [What is awscurl? Why is it useful?](https://dev.to/aws-builders/what-is-awscurl-why-is-it-useful-3fbd)
 - [New AWS Management Console Feature: Simultaneous Sign-in for Multiple Identities](https://dev.to/aws-builders/new-aws-management-console-feature-simultaneous-sign-in-for-multiple-identities-46hn)
 - [AWS&#39;s Game-Changing Innovations for Database Scaling: Aurora Serverless v2, Aurora Limitless Database, and RDS Data API](https://dev.to/aws-builders/awss-game-changing-innovations-for-database-scaling-aurora-serverless-v2-aurora-limitless-4olc)
-- [Exploring new AWS EKS auto mode. What is it ? Why it is useful ? How to quick start ?](https://dev.to/aws-builders/exploring-new-aws-eks-auto-mode-what-is-it-why-it-is-useful-how-to-quick-start--9ff)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
