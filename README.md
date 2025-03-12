@@ -74,10 +74,10 @@
 
 ### Technical Blogs posts at dev.to
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking AI Power with DeepSeek on Amazon Bedrock Easily](https://dev.to/leewalter/unlocking-ai-power-with-deepseek-on-amazon-bedrock-easily-3p57)
 - [Amazon EKS Managed Node Groups Unveil New Update Strategies, &quot;Minimal Capacity&quot;](https://dev.to/aws-builders/amazon-eks-managed-node-groups-unveil-new-update-strategies-minimal-capacity-18kf)
 - [What is awscurl? Why is it useful?](https://dev.to/aws-builders/what-is-awscurl-why-is-it-useful-3fbd)
 - [New AWS Management Console Feature: Simultaneous Sign-in for Multiple Identities](https://dev.to/aws-builders/new-aws-management-console-feature-simultaneous-sign-in-for-multiple-identities-46hn)
-- [AWS&#39;s Game-Changing Innovations for Database Scaling: Aurora Serverless v2, Aurora Limitless Database, and RDS Data API](https://dev.to/aws-builders/awss-game-changing-innovations-for-database-scaling-aurora-serverless-v2-aurora-limitless-4olc)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
