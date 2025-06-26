@@ -74,10 +74,10 @@
 
 ### Technical Blogs posts at dev.to
 <!-- BLOG-POST-LIST:START -->
+- [AWS Strands Agents: A model-driven approach to building AI agents in just a few lines of code.](https://dev.to/aws-builders/aws-strands-agents-a-model-driven-approach-to-building-ai-agents-in-just-a-few-lines-of-code-1l77)
 - [AWS Certificate Manager Now Offers Exportable Public Certificates](https://dev.to/aws-builders/aws-certificate-manager-now-offers-exportable-public-certificates-hce)
 - [Unlocking AI Power with DeepSeek on Amazon Bedrock Easily](https://dev.to/leewalter/unlocking-ai-power-with-deepseek-on-amazon-bedrock-easily-3p57)
 - [Amazon EKS Managed Node Groups Unveil New Update Strategies, &quot;Minimal Capacity&quot;](https://dev.to/aws-builders/amazon-eks-managed-node-groups-unveil-new-update-strategies-minimal-capacity-18kf)
-- [What is awscurl? Why is it useful?](https://dev.to/aws-builders/what-is-awscurl-why-is-it-useful-3fbd)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
